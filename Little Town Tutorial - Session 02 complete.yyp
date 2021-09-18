@@ -50,6 +50,7 @@
     {"id":{"name":"spr_baker_idle_down","path":"sprites/spr_baker_idle_down/spr_baker_idle_down.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_player_idle_up","path":"sprites/spr_player_idle_up/spr_player_idle_up.yy",},"order":3,},
+    {"id":{"name":"spr_jeep","path":"sprites/spr_jeep/spr_jeep.yy",},"order":10,},
     {"id":{"name":"snd_seq_bad01_BGM","path":"sounds/snd_seq_bad01_BGM/snd_seq_bad01_BGM.yy",},"order":7,},
     {"id":{"name":"obj_npc_grocer","path":"objects/obj_npc_grocer/obj_npc_grocer.yy",},"order":9,},
     {"id":{"name":"obj_par_npc","path":"objects/obj_par_npc/obj_par_npc.yy",},"order":6,},

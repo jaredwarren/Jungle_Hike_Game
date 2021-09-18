@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_rock01",
-    "path": "sprites/spr_rock01/spr_rock01.yy",
+    "name": "spr_jeep",
+    "path": "sprites/spr_jeep/spr_jeep.yy",
   },
   "solid": false,
   "visible": true,
